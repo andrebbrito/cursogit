@@ -1,11 +1,8 @@
 Superman
 Batman
-<<<<<<< HEAD
 Flash
 Ciborg
-=======
 Mulher Maravilha
 Aquaman
 Flash
 Robin
->>>>>>> 271c734959bd9143e40267eadc2815b3a5b7d5b5
